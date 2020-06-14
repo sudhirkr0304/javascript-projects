@@ -1,0 +1,72 @@
+body {
+  margin: 0px;
+  padding: 0;
+  background-color: azure;
+}
+
+.header {
+  background-color: white;
+  padding: 0.5em;
+  text-align: center;
+}
+
+button {
+  border: 0ch;
+  background: none;
+}
+
+.color-heading {
+  display: inline;
+  color: rgb(126, 179, 240);
+  font-size: 2em;
+}
+
+.simple {
+  margin-left: 10%;
+  font-size: 1.6em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hex {
+  font-size: 1.6em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main {
+  text-align: center;
+  margin-top: 20%;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  display: inline-block;
+}
+
+.btn {
+  padding: 15px;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 3px solid black;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+.main-content {
+  background-color: black;
+  display: inline-block;
+  padding: 0 20px 0 20px;
+  margin-bottom: 20px;
+  border-radius: 0.5em;
+}
+
+.color {
+  color: rgb(126, 179, 240);
+}
+
+.app {
+  background-color: blue;
+}
